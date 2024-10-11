@@ -8,5 +8,5 @@ Welcome to my LeetCode repository! Here, you'll find a collection of daily codin
 <b> Solutions:</b> Clear, concise code along with explanations to help you understand the thought process.<br>
 
 <br>
-🌟 Feel free to just browse through the code! Let’s make coding fun and exciting together! 🌟 <br>
-<i>Happy coding!</i>
+Feel free to just browse through the code! Let’s make coding fun and exciting together! <br>
+<i> 🌟 Happy coding! 🌟 </i>
