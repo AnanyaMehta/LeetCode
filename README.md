@@ -4,8 +4,9 @@ Welcome to my LeetCode repository! Here, you'll find a collection of daily codin
 </p>
 
 <h2>What You'll Find:</h2>  <br>
-- <b> Daily Problems:</b> A fresh problem every day to keep your coding muscles flexed! <br>
-- <b> Solutions:</b> Clear, concise code along with explanations to help you understand the thought process.<br>
+<b> Daily Problems:</b> A fresh problem every day to keep your coding muscles flexed! <br>
+<b> Solutions:</b> Clear, concise code along with explanations to help you understand the thought process.<br>
 
-Feel free to just browse through the code! Let’s make coding fun and exciting together! 🌟 <br>
+<br>
+🌟 Feel free to just browse through the code! Let’s make coding fun and exciting together! 🌟 <br>
 <i>Happy coding!</i>
