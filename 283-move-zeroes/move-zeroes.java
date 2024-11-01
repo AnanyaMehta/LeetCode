@@ -1,5 +1,7 @@
 class Solution {
     public void moveZeroes(int[] nums) {
+
+
         int j=-1;
         int n = nums.length;
         for(int i=0;i<n;i++){
@@ -19,6 +21,5 @@ class Solution {
                 j++;
             }     
         }
-        
     }
 }
